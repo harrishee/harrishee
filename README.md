@@ -1,16 +1,21 @@
-### Hi there, I'm Harris 👋 🧑‍💻
+### Hi there 👋
 
-Hello World Coder | println Debugger | 404 Dev | Works-on-my-Machine Engineer
+Hello! I'm Hanfei, a passionate software engineer, especially in backend development.
 
-- 🔍 Actively looking for **2024 new grad software engineer** opportunities.
-- 🏫 **Graduate Student** in Computer Science at **UC San Diego**.
-- 🌟 Always eager to learn new skills and technologies to improve myself.
+- Actively looking for **2024 new grad software engineer** opportunities.
+- Graduate Student in Computer Science at UC San Diego.
+- Committed to continuous learning; always exploring the latest technologies!
+
+Feel free to reach out to me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanfeihe/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harrishe2000@gmail.com)
-![](https://komarev.com/ghpvc/?username=harrishee&style=for-the-badge)
+[![Gmail](https://img.shields.io/badge/Gmail-0077B5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harrishe2000@gmail.com)
+[![Indeed](https://img.shields.io/badge/Indeed-0077B5?style=for-the-badge&logo=indeed&logoColor=white)](mailto:harrishe2000@gmail.com)
+![Views](https://komarev.com/ghpvc/?username=harrishee&style=for-the-badge)
 
 ### Technologies including:
+
+Hello World Coder | println Debugger | 404 programmer | Works-on-my-Machine Developer
 
 [![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=Python)](#)
 [![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=openJDK&logoColor=orange)](#)
@@ -19,7 +24,6 @@ Hello World Coder | println Debugger | 404 Dev | Works-on-my-Machine Engineer
 [![C++](https://img.shields.io/badge/C++-05122A?style=flat&logo=cplusplus)](#)
 [![HTML](https://img.shields.io/badge/HTML5-05122A?style=flat&logo=html5)](#)
 [![CSS](https://img.shields.io/badge/CSS-05122A?style=flat&logo=css-wizardry)](#)
-[![Go](https://img.shields.io/badge/Go-05122A?style=flat&logo=go)](#)
 
 [![SpringBoot](https://img.shields.io/badge/SpringBoot-05122A?style=flat&logo=springboot)](#)
 [![Node.js](https://img.shields.io/badge/Node.js-05122A?style=flat&logo=node.js)](#)
